@@ -11,4 +11,4 @@ Introduced penalties for not filling the need for labor.
 #### Coming soon 
 ### Instruments
 I use [PuLP library](https://pythonhosted.org/PuLP/).  
-You also can use [CPLEX](https://www.ibm.com/analytics/cplex-optimizer) from IBM and [Z3](https://rise4fun.com/Z3/tutorial/guide) from Microsoft.
+You can also use [CPLEX](https://www.ibm.com/analytics/cplex-optimizer) from IBM and [Z3](https://rise4fun.com/Z3/tutorial/guide) from Microsoft.
